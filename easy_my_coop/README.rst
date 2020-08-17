@@ -42,7 +42,7 @@ you can create a venv with this name (it's git-ignored)
 ```shell
 python -m venv venv
 ```
-And then pip-install them [from pypi](https://pypi.org/user/coopdevs/).
+And then pip-install them `from pypi <https://pypi.org/user/coopdevs/>`_.
 
 ### Example
 
